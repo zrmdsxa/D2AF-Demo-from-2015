@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e995faf016115ba4096d5cb413d59226
+timeCreated: 1433302432
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemymissileplane: {fileID: 455256, guid: a84f8c249428fdd40adf15b2133a7bbe, type: 2}
+  - satellite: {fileID: 422238, guid: 2ec70db111fec6c4088357ce04b027c1, type: 2}
+  - frigate: {fileID: 460388, guid: 2ba1819e058b4b444824502e100687f7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
